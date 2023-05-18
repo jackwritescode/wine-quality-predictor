@@ -1,1 +1,1 @@
-web: voila --no-browser --enable_nbextensions=True /voila/WineQualityPredictor.ipynb
+web: voila --no-browser --enable_nbextensions=True --Voila.ip=0.0.0.0 WineQualityPredictor.ipynb
